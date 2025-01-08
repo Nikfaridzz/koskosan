@@ -9,8 +9,8 @@ class LoginPage extends StatelessWidget {
   final TextEditingController passwordController = TextEditingController();
 
   // Email dan password yang valid
-  final String validEmail = "nikfaridz@gmail.com";
-  final String validPassword = "nikfaridz123";
+  final String validEmail = "Pengguna";
+  final String validPassword = "katasandi";
 
   // Fungsi validasi login
   void validateLogin(BuildContext context) {

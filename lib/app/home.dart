@@ -20,7 +20,7 @@ class KostPage extends StatelessWidget {
             ),
             SizedBox(width: 10),
             Text(
-              'Hi, Nik Faridz',
+              'Hi, Pengguna',
               style:
                   TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
             ),
